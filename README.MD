@@ -45,7 +45,7 @@ On supported hardware, `Kader` can process **up to ~10.3 million hash comparison
 - now install it directly 
 
   ```bash 
-     https://github.com/Mohamedboukerche22/kader.git && cd kader && chmod +x install.sh && ./install.sh 
+     git clone https://github.com/Mohamedboukerche22/kader.git && cd kader && chmod +x install.sh && ./install.sh 
   ```
 
 -  and voila 
